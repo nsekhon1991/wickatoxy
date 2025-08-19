@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : 
+title                    : "WICK Lab"
 title_separator          : "-"
 name                     : &name "Natasha Sekhon, PhD"
 description              : &description "Assistant Professor"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "WICK Lab"
+  name             : " "
   avatar           : "wick.png"
   bio              : "Occidental College"
   location         : "Los Angeles, CA"

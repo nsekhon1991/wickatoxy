@@ -1,11 +1,11 @@
 # main links links
 main:
 
-  - title: "People"
-    url: /talks/  
-
   - title: "Research Directions" 
     url: /page-archive/
+    
+  - title: "People"
+    url: /talks/  
 
   - title: "Teaching"
     url: /teaching/    

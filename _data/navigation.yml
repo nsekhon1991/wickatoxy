@@ -2,13 +2,13 @@
 main:
 
   - title: "People"
-    url: /talks/   
+    url: /talks/  
+
+  - title: "Research Directions" 
+    url: /page-archive/
 
   - title: "Teaching"
     url: /teaching/    
     
   - title: "Facilities"
     url: /portfolio/
-
-  - title: "Research Directions" 
-    url: /page-archive/

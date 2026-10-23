@@ -18,13 +18,13 @@ We welcome you to browse through the images and explore the website. Please feel
   <figure>
     <img src="https://nsekhon1991.github.io/wickatoxy/images/Jan15_Twins_2.jpg"
          loading="lazy"/>
-    <figcaption>Fieldwork</figcaption>
+    <figcaption>Edralin and Bibem setting up calcite plates in PPSRNP, Philippines. </figcaption>
   </figure>
 
   <figure>
     <img src="https://nsekhon1991.github.io/wickatoxy/images/Jan15_Speedboat.jpg"
          loading="lazy">
-    <figcaption>In the speedboat</figcaption>
+    <figcaption>Mira and cavers from PPSRNP ready to head out from Sabang wharf. </figcaption>
   </figure>
 
   <!-- Add the remaining photos in the same format -->

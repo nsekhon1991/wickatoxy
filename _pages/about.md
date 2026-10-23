@@ -10,7 +10,9 @@ redirect_from:
 
 At the Water Isotopes, Climate and Karst (WICK) Lab in the Department of Geology at Occidental College we investigate hydroclimate variability from the surface to the subsurface in the present and past. 
 
-Since joining the Geology department in January 2024, Prof. Sekhon and undergraduate research students have generated lots of new data at partner institutes, shared results at numerous conferences, conducted multiple field expeditions and created fun memories along the way!
+Since joining the Geology department at Occidental College in January 2024, Prof. Sekhon and undergraduate research students have generated lots of new data in close collaboration with partner institutes within (Biology, Religious Studies, Asian Studies, Computer Sciences) and outside Occidental College (UT Austin, Texas State, UP Diliman, TAMU CC, Brown University, MIT, NCKRI). Students have shared results at numerous conferences worldwide, conducted multiple field expeditions and created fun memories along the way!
+
+We welcome to browse through the images and explore the website. Please feel free to reach out with any questions!
 
 
 

@@ -12,7 +12,7 @@ At the Water Isotopes, Climate and Karst (WICK) Lab in the Department of Geology
 
 Since joining the Geology department at Occidental College in January 2024, Prof. Sekhon and undergraduate research students have generated lots of new data in close collaboration with partner institutes within (Biology, Religious Studies, Asian Studies, Computer Sciences) and outside Occidental College (UT Austin, Texas State, UP Diliman, TAMU CC, Brown University, MIT, NCKRI). Students have shared results at numerous conferences worldwide, conducted multiple field expeditions and created fun memories along the way!
 
-We welcome to browse through the images and explore the website. Please feel free to reach out with any questions!
+We welcome you to browse through the images and explore the website. Please feel free to reach out with any questions!
 
 
 

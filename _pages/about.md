@@ -14,6 +14,23 @@ Since joining the Geology department at Occidental College in January 2024, Prof
 
 We welcome you to browse through the images and explore the website. Please feel free to reach out with any questions!
 
+<div class="wick-gallery">
+  <figure>
+    <img src="{{ '[/images/fieldwork.jpg](https://nsekhon1991.github.io/wickatoxy/images/Jan15_Twins_2.jpg)' | relative_url }}"
+         alt="Students collecting field samples"
+         loading="lazy">
+    <figcaption>Fieldwork</figcaption>
+  </figure>
+
+  <figure>
+    <img src="{{ '[/images/lab.jpg](https://nsekhon1991.github.io/wickatoxy/images/Jan15_Speedboat.jpg)' | relative_url }}"
+         alt="Students working in the lab"
+         loading="lazy">
+    <figcaption>In the lab</figcaption>
+  </figure>
+
+  <!-- Add the remaining photos in the same format -->
+</div>
 
 
 

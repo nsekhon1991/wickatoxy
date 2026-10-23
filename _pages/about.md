@@ -16,16 +16,15 @@ We welcome you to browse through the images and explore the website. Please feel
 
 <div class="wick-gallery">
   <figure>
-    <img src="images/fieldwork.jpg](https://nsekhon1991.github.io/wickatoxy/images/Jan15_Twins_2.jpg"
+    <img src="{{ '/images/Jan15_Twins_2.jpg' | relative_url }}"
          loading="lazy"/>
     <figcaption>Fieldwork</figcaption>
   </figure>
 
   <figure>
-    <img src="{{ '[/images/lab.jpg](https://nsekhon1991.github.io/wickatoxy/images/Jan15_Speedboat.jpg)' | relative_url }}"
-         alt="Students working in the lab"
+    <img src="{{ '/images/Jan15_Speedboat.jpg' | relative_url }}"
          loading="lazy">
-    <figcaption>In the lab</figcaption>
+    <figcaption>In the speedboat</figcaption>
   </figure>
 
   <!-- Add the remaining photos in the same format -->

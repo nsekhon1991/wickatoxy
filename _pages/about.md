@@ -14,6 +14,25 @@ Since joining the Geology department at Occidental College in January 2024, Prof
 
 We welcome you to browse through the images and explore the website. Please feel free to reach out with any questions!
 
+<style>
+  .wick-gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 12px;
+  }
+
+  .wick-gallery img {
+    width: 100%;
+    height: 130px;
+    object-fit: cover;
+    border-radius: 6px;
+  }
+
+  .wick-gallery figure {
+    margin: 0;
+  }
+</style>
+
 <div class="wick-gallery">
   <figure>
     <img src="https://nsekhon1991.github.io/wickatoxy/images/Jan15_Twins_2.jpg"

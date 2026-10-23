@@ -16,9 +16,9 @@ We welcome you to browse through the images and explore the website. Please feel
 
 <div class="wick-gallery">
   <figure>
-    <img src="{{ '[/images/fieldwork.jpg](https://nsekhon1991.github.io/wickatoxy/images/Jan15_Twins_2.jpg)' | relative_url }}"
+    <img src="images/fieldwork.jpg](https://nsekhon1991.github.io/wickatoxy/images/Jan15_Twins_2.jpg"
          alt="Students collecting field samples"
-         loading="lazy">
+         loading="lazy"/>
     <figcaption>Fieldwork</figcaption>
   </figure>
 

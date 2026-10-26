@@ -89,7 +89,7 @@ We welcome you to browse through the images and explore the website. Please feel
   </figure>
 
   <figure>
-    <img src="https://nsekhon1991.github.io/wickatoxy/images/IMG_8713(1).jpeg"
+    <img src="https://nsekhon1991.github.io/wickatoxy/images/01122025_bangentrance.jpg"
          loading="lazy">
     <figcaption>Geoffree (local collaborator) at the entrance of Bangalau Cave. </figcaption>
   </figure>

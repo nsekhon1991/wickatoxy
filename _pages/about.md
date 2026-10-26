@@ -79,7 +79,19 @@ We welcome you to browse through the images and explore the website. Please feel
   <figure>
     <img src="https://nsekhon1991.github.io/wickatoxy/images/IMG_8713(1).jpeg"
          loading="lazy">
-    <figcaption>Palawan Speleo Inc. cavers walking along the St Paul Massif.</figcaption>
+    <figcaption>Palawan Speleo Inc. cavers walking infornt the St Paul Miocene Massif.</figcaption>
+  </figure>
+
+  <figure>
+    <img src="https://nsekhon1991.github.io/wickatoxy/images/01122025_bang_sampling_needle.jpg"
+         loading="lazy"/>
+    <figcaption>Mira sampling station Needle in northeastern Philippines. </figcaption>
+  </figure>
+
+  <figure>
+    <img src="https://nsekhon1991.github.io/wickatoxy/images/IMG_8713(1).jpeg"
+         loading="lazy">
+    <figcaption>Geoffree (local collaborator) at the entrance of Bangalau Cave. </figcaption>
   </figure>
 
 

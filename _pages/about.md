@@ -73,13 +73,13 @@ We welcome you to browse through the images and explore the website. Please feel
   <figure>
     <img src="https://nsekhon1991.github.io/wickatoxy/images/IMG_2933.jpeg"
          loading="lazy"/>
-    <figcaption>Sleeping set-up outside PPSRNP cave system! </figcaption>
+    <figcaption>Prf. Sekhon participating in a Snow Safety Skills class in the Eastern Sierras. </figcaption>
   </figure>
 
   <figure>
     <img src="https://nsekhon1991.github.io/wickatoxy/images/IMG_8713(1).jpeg"
          loading="lazy">
-    <figcaption>St Paul Limestone exposed along beach.</figcaption>
+    <figcaption>Palawan Speleo Inc. cavers walking along the St Paul Massif.</figcaption>
   </figure>
 
 

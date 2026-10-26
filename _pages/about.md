@@ -115,13 +115,13 @@ We welcome you to browse through the images and explore the website. Please feel
   <figure>
     <img src="https://nsekhon1991.github.io/wickatoxy/images/IMG_4841.jpg"
          loading="lazy"/>
-    <figcaption>Alex crawling through a section in Cirque Cave. </figcaption>
+    <figcaption>Grace standing in a keyhole cross section of Boyden Caverns. </figcaption>
   </figure>
 
   <figure>
     <img src="https://nsekhon1991.github.io/wickatoxy/images/IMG_5083.jpg"
          loading="lazy">
-    <figcaption>Prf. Sekhon collecting Sutlej River sediment for collaborator. </figcaption>
+    <figcaption>Alex sampling cave water in Crystal Caverns. </figcaption>
   </figure>
 
 </div>

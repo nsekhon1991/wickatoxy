@@ -52,7 +52,7 @@ We welcome you to browse through the images and explore the website. Please feel
   </figure>
 
   <figure>
-    <img src="https://nsekhon1991.github.io/wickatoxy/images/IMG_8621.jpg"
+    <img src="https://nsekhon1991.github.io/wickatoxy/images/IMG_8621.jpeg"
          loading="lazy">
     <figcaption>Mira and cavers from PPSRNP ready to head out from Sabang wharf. </figcaption>
   </figure>

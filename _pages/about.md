@@ -61,13 +61,25 @@ We welcome you to browse through the images and explore the website. Please feel
   <figure>
     <img src="https://nsekhon1991.github.io/wickatoxy/images/01162025-02_PPSRNP_hammocks.jpg"
          loading="lazy"/>
-    <figcaption>Alex and collaborators at Cirque Cave. </figcaption>
+    <figcaption>Sleeping set-up outside PPSRNP cave system! </figcaption>
   </figure>
 
   <figure>
     <img src="https://nsekhon1991.github.io/wickatoxy/images/01162025-12_PPSRNP_beach.jpg"
          loading="lazy">
-    <figcaption>Ginny and James prepping for a day in the field in Sabang. </figcaption>
+    <figcaption>St Paul Limestone exposed along beach.</figcaption>
+  </figure>
+
+  <figure>
+    <img src="https://nsekhon1991.github.io/wickatoxy/images/IMG_2933.jpeg"
+         loading="lazy"/>
+    <figcaption>Sleeping set-up outside PPSRNP cave system! </figcaption>
+  </figure>
+
+  <figure>
+    <img src="https://nsekhon1991.github.io/wickatoxy/images/IMG_8713(1).jpeg"
+         loading="lazy">
+    <figcaption>St Paul Limestone exposed along beach.</figcaption>
   </figure>
 
 

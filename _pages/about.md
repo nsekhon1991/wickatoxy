@@ -49,7 +49,7 @@ We welcome you to browse through the images and explore the website. Please feel
   <figure>
     <img src="https://nsekhon1991.github.io/wickatoxy/images/IMG_5183.jpg"
          loading="lazy"/>
-    <figcaption>Alex and collaborators at Cirque Cave. </figcaption>
+    <figcaption>Alex and collaborators in Cirque Cave. </figcaption>
   </figure>
 
   <figure>
@@ -94,6 +94,17 @@ We welcome you to browse through the images and explore the website. Please feel
     <figcaption>Geoffree (local collaborator) at the entrance of Bangalau Cave. </figcaption>
   </figure>
 
+  <figure>
+    <img src="https://nsekhon1991.github.io/wickatoxy/images/IMG_5193.jpeg"
+         loading="lazy"/>
+    <figcaption>Mira sampling station Needle in northeastern Philippines. </figcaption>
+  </figure>
+
+  <figure>
+    <img src="https://nsekhon1991.github.io/wickatoxy/images/Screenshot 2026-10-23 at 15.49.34.png"
+         loading="lazy">
+    <figcaption>Geoffree (local collaborator) at the entrance of Bangalau Cave. </figcaption>
+  </figure>
 
 </div>
 

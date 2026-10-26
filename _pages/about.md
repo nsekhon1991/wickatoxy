@@ -97,13 +97,13 @@ We welcome you to browse through the images and explore the website. Please feel
   <figure>
     <img src="https://nsekhon1991.github.io/wickatoxy/images/IMG_5193.jpeg"
          loading="lazy"/>
-    <figcaption>Mira sampling station Needle in northeastern Philippines. </figcaption>
+    <figcaption>Alex crawling through a section in Cirque Cave. </figcaption>
   </figure>
 
   <figure>
     <img src="https://nsekhon1991.github.io/wickatoxy/images/Screenshot 2026-10-23 at 15.49.34.png"
          loading="lazy">
-    <figcaption>Geoffree (local collaborator) at the entrance of Bangalau Cave. </figcaption>
+    <figcaption>Prf. Sekhon collecting Sutlej River sediment for collaborator. </figcaption>
   </figure>
 
 </div>

@@ -45,16 +45,29 @@ We welcome you to browse through the images and explore the website. Please feel
          loading="lazy">
     <figcaption>Mira and cavers from PPSRNP ready to head out from Sabang wharf. </figcaption>
   </figure>
+  
   <figure>
     <img src="https://nsekhon1991.github.io/wickatoxy/images/IMG_5183.jpg"
          loading="lazy"/>
-    <figcaption>Edralin and Bibem setting up calcite plates in PPSRNP, Philippines. </figcaption>
+    <figcaption>Alex and collaborators at Cirque Cave. </figcaption>
   </figure>
 
   <figure>
     <img src="https://nsekhon1991.github.io/wickatoxy/images/IMG_8621.jpeg"
          loading="lazy">
-    <figcaption>Mira and cavers from PPSRNP ready to head out from Sabang wharf. </figcaption>
+    <figcaption>Ginny and James prepping for a day in the field in Sabang. </figcaption>
+  </figure>
+
+  <figure>
+    <img src="https://nsekhon1991.github.io/wickatoxy/images/01162025-02_PPSRNP_hammocks.jpg"
+         loading="lazy"/>
+    <figcaption>Alex and collaborators at Cirque Cave. </figcaption>
+  </figure>
+
+  <figure>
+    <img src="https://nsekhon1991.github.io/wickatoxy/images/01162025-12_PPSRNP_beach.jpg"
+         loading="lazy">
+    <figcaption>Ginny and James prepping for a day in the field in Sabang. </figcaption>
   </figure>
 
 

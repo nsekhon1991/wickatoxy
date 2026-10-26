@@ -45,8 +45,19 @@ We welcome you to browse through the images and explore the website. Please feel
          loading="lazy">
     <figcaption>Mira and cavers from PPSRNP ready to head out from Sabang wharf. </figcaption>
   </figure>
+  <figure>
+    <img src="https://nsekhon1991.github.io/wickatoxy/images/IMG_5183.jpg"
+         loading="lazy"/>
+    <figcaption>Edralin and Bibem setting up calcite plates in PPSRNP, Philippines. </figcaption>
+  </figure>
 
-  <!-- Add the remaining photos in the same format -->
+  <figure>
+    <img src="https://nsekhon1991.github.io/wickatoxy/images/IMG_8621.jpg"
+         loading="lazy">
+    <figcaption>Mira and cavers from PPSRNP ready to head out from Sabang wharf. </figcaption>
+  </figure>
+
+
 </div>
 
 

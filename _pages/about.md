@@ -79,7 +79,7 @@ We welcome you to browse through the images and explore the website. Please feel
   <figure>
     <img src="https://nsekhon1991.github.io/wickatoxy/images/IMG_8713(1).jpeg"
          loading="lazy">
-    <figcaption>Palawan Speleo Inc. cavers walking infornt the St Paul Miocene Massif.</figcaption>
+    <figcaption>Palawan Speleo Inc. cavers walking in front of the St Paul Miocene Massif.</figcaption>
   </figure>
 
   <figure>
@@ -102,6 +102,24 @@ We welcome you to browse through the images and explore the website. Please feel
 
   <figure>
     <img src="https://nsekhon1991.github.io/wickatoxy/images/Screenshot 2026-10-23 at 15.49.34.png"
+         loading="lazy">
+    <figcaption>Prf. Sekhon collecting Sutlej River sediment for collaborator. </figcaption>
+  </figure>
+
+  <figure>
+    <img src="https://nsekhon1991.github.io/wickatoxy/images/01102025_ari0_walktobang.jpg"
+         loading="lazy">
+    <figcaption>Mira and local collaborators making their way to caves in the Cagayan River Basin. </figcaption>
+  </figure>
+
+  <figure>
+    <img src="https://nsekhon1991.github.io/wickatoxy/images/IMG_4841.jpg"
+         loading="lazy"/>
+    <figcaption>Alex crawling through a section in Cirque Cave. </figcaption>
+  </figure>
+
+  <figure>
+    <img src="https://nsekhon1991.github.io/wickatoxy/images/IMG_5083.jpg"
          loading="lazy">
     <figcaption>Prf. Sekhon collecting Sutlej River sediment for collaborator. </figcaption>
   </figure>

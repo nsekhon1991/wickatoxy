@@ -10,9 +10,9 @@ redirect_from:
 
 At the Water Isotopes, Climate and Karst (WICK) Lab in the Department of Geology at Occidental College we investigate hydroclimate variability from the surface to the subsurface in the present and past. 
 
-Since joining the Geology department at Occidental College in January 2024, Prof. Sekhon and undergraduate research students have generated lots of new data in close collaboration with partner institutes within (Biology, Religious Studies, Asian Studies, Computer Sciences) and outside Occidental College (UT Austin, Texas State, UP Diliman, TAMU CC, Brown University, MIT, NCKRI). Students have shared results at numerous conferences worldwide, conducted multiple field expeditions and created fun memories along the way!
+Since joining the Geology department at Occidental College in January 2024, Prof. Sekhon and undergraduate research students have generated lots of new data in close collaboration across disciplines at Occidental College (Biology, Religious Studies, Asian Studies, Computer Sciences) and with partner institutes outside Occidental College (UT Austin, Texas State, UP Diliman, TAMU CC, Brown University, MIT, NCKRI). Students have shared results at numerous conferences worldwide, conducted multiple field expeditions and created fun memories along the way!
 
-We welcome you to browse through the images and explore the website. Please feel free to reach out with any questions!
+We invite you to browse through the images and explore the website. Please feel free to reach out with any questions!
 
 <style>
   .wick-gallery {
@@ -122,6 +122,36 @@ We welcome you to browse through the images and explore the website. Please feel
     <img src="https://nsekhon1991.github.io/wickatoxy/images/IMG_5083.jpg"
          loading="lazy">
     <figcaption>Alex sampling cave water in Crystal Caverns. </figcaption>
+  </figure>
+
+  <figure>
+    <img src="https://nsekhon1991.github.io/wickatoxy/images/Screenshot 2026-10-29 at 12.44.57.png"
+         loading="lazy">
+    <figcaption> Sunrise at Providence Mountains near the Mojave Desert. </figcaption>
+  </figure>
+
+  <figure>
+    <img src="https://nsekhon1991.github.io/wickatoxy/images/Screenshot 2026-10-29 at 12.43.22.png"
+         loading="lazy">
+    <figcaption> Prf. Sekhon, Ginny, James spelling Oxy after a day in the field. </figcaption>
+  </figure>
+
+  <figure>
+    <img src="https://nsekhon1991.github.io/wickatoxy/images/Screenshot 2026-10-29 at 12.45.33.png"
+         loading="lazy">
+    <figcaption> Sleeping set up outside Grotte Valerie, NW Territories, Canada. </figcaption>
+  </figure>
+  
+  <figure>
+    <img src="https://nsekhon1991.github.io/wickatoxy/images/Screenshot 2026-10-29 at 12.43.54.png"
+         loading="lazy">
+    <figcaption> CRF caving partner, Fofo, walking towards alpine caves in MIKI NP. </figcaption>
+  </figure>
+
+  <figure>
+    <img src="https://nsekhon1991.github.io/wickatoxy/images/Screenshot 2026-10-29 at 12.45.11.png"
+         loading="lazy">
+    <figcaption> Graduate student, Maddie and Prf. Sekhon with Devonian limestone cliffs in the background. </figcaption>
   </figure>
 
 </div>

@@ -154,6 +154,30 @@ We invite you to browse through the images and explore the website. Please feel 
     <figcaption> Graduate student, Maddie and Prf. Sekhon with Devonian limestone cliffs in the background. </figcaption>
   </figure>
 
+  <figure>
+    <img src="https://nsekhon1991.github.io/wickatoxy/images/Screenshot 2026-10-29 at 12.44.32.png"
+         loading="lazy">
+    <figcaption> Prf. Sekhon, BNBNP caver Jayrald and caving team outside caves in the Philippines. </figcaption>
+  </figure>
+
+  <figure>
+    <img src="https://nsekhon1991.github.io/wickatoxy/images/Screenshot 2026-10-29 at 12.44.43.png"
+         loading="lazy">
+    <figcaption> En-route to Mitchell Caverns in the Mojave Desert. </figcaption>
+  </figure>
+
+  <figure>
+    <img src="https://nsekhon1991.github.io/wickatoxy/images/Screenshot 2026-10-29 at 12.45.22.png"
+         loading="lazy">
+    <figcaption> Prf. Sekhon after a muddy day caving in Canada. </figcaption>
+  </figure>
+
+  <figure>
+    <img src="https://nsekhon1991.github.io/wickatoxy/images/Screenshot 2026-10-29 at 12.45.45.png"
+         loading="lazy">
+    <figcaption> Hiking down a scree and talus slope exposure. </figcaption>
+  </figure>
+
 </div>
 
 

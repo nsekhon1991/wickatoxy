@@ -271,13 +271,13 @@ We invite you to browse through the images and explore the website. Please feel 
   <figure>
     <img src="https://nsekhon1991.github.io/wickatoxy/images/Screenshot 2026-11-02 at 16.27.41.png"
          loading="lazy">
-    <figcaption> Panomaric view in Nahanni National Park. </figcaption>
+    <figcaption> Panoramic view. </figcaption>
   </figure>
 
   <figure>
     <img src="https://nsekhon1991.github.io/wickatoxy/images/Screenshot 2026-11-02 at 16.29.19.png"
          loading="lazy">
-    <figcaption> Dr. Sekhon at Cape Town. </figcaption>
+    <figcaption> Dr. Sekhon at Cape of Good Hope. </figcaption>
   </figure>
 
 </div>

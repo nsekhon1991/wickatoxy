@@ -73,7 +73,7 @@ We invite you to browse through the images and explore the website. Please feel 
   <figure>
     <img src="https://nsekhon1991.github.io/wickatoxy/images/IMG_2933.jpeg"
          loading="lazy"/>
-    <figcaption>Prf. Sekhon participating in a Snow Safety Skills class in the Eastern Sierras. </figcaption>
+    <figcaption>Dr. Sekhon participating in a Snow Safety Skills class in the Eastern Sierras. </figcaption>
   </figure>
 
   <figure>
@@ -103,7 +103,7 @@ We invite you to browse through the images and explore the website. Please feel 
   <figure>
     <img src="https://nsekhon1991.github.io/wickatoxy/images/Screenshot 2026-10-23 at 15.49.34.png"
          loading="lazy">
-    <figcaption>Prf. Sekhon collecting Sutlej River sediment for collaborator. </figcaption>
+    <figcaption>Dr. Sekhon collecting Sutlej River sediment for collaborator. </figcaption>
   </figure>
 
   <figure>
@@ -133,7 +133,7 @@ We invite you to browse through the images and explore the website. Please feel 
   <figure>
     <img src="https://nsekhon1991.github.io/wickatoxy/images/Screenshot 2026-10-29 at 12.43.22.png"
          loading="lazy">
-    <figcaption> Prf. Sekhon, Ginny, James spelling Oxy after a day in the field. </figcaption>
+    <figcaption> Dr. Sekhon, Ginny, James spelling Oxy after a day in the field. </figcaption>
   </figure>
 
   <figure>
@@ -151,13 +151,13 @@ We invite you to browse through the images and explore the website. Please feel 
   <figure>
     <img src="https://nsekhon1991.github.io/wickatoxy/images/Screenshot 2026-10-29 at 12.45.11.png"
          loading="lazy">
-    <figcaption> Graduate student, Maddie and Prf. Sekhon with Devonian limestone cliffs in the background. </figcaption>
+    <figcaption> Graduate student, Maddie and Dr. Sekhon with Devonian limestone cliffs in the background. </figcaption>
   </figure>
 
   <figure>
     <img src="https://nsekhon1991.github.io/wickatoxy/images/Screenshot 2026-10-29 at 12.44.32.png"
          loading="lazy">
-    <figcaption> Prf. Sekhon, BNBNP caver Jayrald and caving team outside caves in the Philippines. </figcaption>
+    <figcaption> Dr. Sekhon, BNBNP caver Jayrald and caving team outside caves in the Philippines. </figcaption>
   </figure>
 
   <figure>
@@ -169,11 +169,35 @@ We invite you to browse through the images and explore the website. Please feel 
   <figure>
     <img src="https://nsekhon1991.github.io/wickatoxy/images/Screenshot 2026-10-29 at 12.45.22.png"
          loading="lazy">
-    <figcaption> Prf. Sekhon after a muddy day caving in Canada. </figcaption>
+    <figcaption> Dr. Sekhon after a muddy day caving in Canada. </figcaption>
   </figure>
 
   <figure>
     <img src="https://nsekhon1991.github.io/wickatoxy/images/Screenshot 2026-10-29 at 12.45.45.png"
+         loading="lazy">
+    <figcaption> Hiking down a scree and talus slope exposure. </figcaption>
+  </figure>
+
+  <figure>
+    <img src="https://nsekhon1991.github.io/wickatoxy/images/Screenshot 2026-11-02 at 16.28.23.png"
+         loading="lazy">
+    <figcaption> Hiking down a scree and talus slope exposure. </figcaption>
+  </figure>
+
+  <figure>
+    <img src="https://nsekhon1991.github.io/wickatoxy/images/Screenshot 2026-11-02 at 16.28.34.png"
+         loading="lazy">
+    <figcaption> Hiking down a scree and talus slope exposure. </figcaption>
+  </figure>
+
+  <figure>
+    <img src="https://nsekhon1991.github.io/wickatoxy/images/Screenshot 2026-11-02 at 16.29.02.png"
+         loading="lazy">
+    <figcaption> Hiking down a scree and talus slope exposure. </figcaption>
+  </figure>
+
+  <figure>
+    <img src="https://nsekhon1991.github.io/wickatoxy/images/Screenshot 2026-11-02 at 16.29.10.png"
          loading="lazy">
     <figcaption> Hiking down a scree and talus slope exposure. </figcaption>
   </figure>

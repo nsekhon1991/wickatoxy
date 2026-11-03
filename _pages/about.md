@@ -257,12 +257,6 @@ We invite you to browse through the images and explore the website. Please feel 
   </figure>
 
   <figure>
-    <img src="https://nsekhon1991.github.io/wickatoxy/images/Screenshot 2026-11-02 at 16.26.10.png"
-         loading="lazy">
-    <figcaption> Dr. Sekhon rapelling </figcaption>
-  </figure>
-
-  <figure>
     <img src="https://nsekhon1991.github.io/wickatoxy/images/Screenshot 2026-11-02 at 16.27.19.png"
          loading="lazy">
     <figcaption> Sunset in Sabang </figcaption>

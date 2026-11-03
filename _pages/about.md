@@ -201,6 +201,30 @@ We invite you to browse through the images and explore the website. Please feel 
          loading="lazy">
     <figcaption> Mira, Prf. Dan Ibarra, and graduate student Monica at Brown University. </figcaption>
   </figure>
+  
+  <figure>
+    <img src="https://nsekhon1991.github.io/wickatoxy/images/Screenshot 2026-11-02 at 16.29.27.png"
+         loading="lazy">
+    <figcaption> Mira, Prf. Dan Ibarra, and graduate student Monica at Brown University. </figcaption>
+  </figure>
+
+  <figure>
+    <img src="https://nsekhon1991.github.io/wickatoxy/images/Screenshot 2026-11-02 at 16.27.11.png"
+         loading="lazy">
+    <figcaption> Mira, Prf. Dan Ibarra, and graduate student Monica at Brown University. </figcaption>
+  </figure>
+
+  <figure>
+    <img src="https://nsekhon1991.github.io/wickatoxy/images/Screenshot 2026-11-02 at 16.26.59.png"
+         loading="lazy">
+    <figcaption> Mira, Prf. Dan Ibarra, and graduate student Monica at Brown University. </figcaption>
+  </figure>
+  
+  <figure>
+    <img src="https://nsekhon1991.github.io/wickatoxy/images/Screenshot 2026-11-02 at 16.26.33.png"
+         loading="lazy">
+    <figcaption> Mira, Prf. Dan Ibarra, and graduate student Monica at Brown University. </figcaption>
+  </figure>
 
 </div>
 

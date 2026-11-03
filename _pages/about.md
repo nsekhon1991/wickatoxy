@@ -226,6 +226,60 @@ We invite you to browse through the images and explore the website. Please feel 
     <figcaption> Cosy set up in Nahanni National Park, Canada. </figcaption>
   </figure>
 
+  <figure>
+    <img src="https://nsekhon1991.github.io/wickatoxy/images/Screenshot 2026-11-02 at 16.28.02.png"
+         loading="lazy">
+    <figcaption> Alex and Street representing the WICK lab at GSA! </figcaption>
+  </figure>
+
+  <figure>
+    <img src="https://nsekhon1991.github.io/wickatoxy/images/Screenshot 2026-11-02 at 16.28.12.png"
+         loading="lazy">
+    <figcaption> Christopher and Solvej presenting their results during a conference at Oxy. </figcaption>
+  </figure>
+  
+  <figure>
+    <img src="https://nsekhon1991.github.io/wickatoxy/images/Screenshot 2026-11-02 at 16.28.43.png"
+         loading="lazy">
+    <figcaption> Mira presenting her senior comp results at EGU, Vienna. </figcaption>
+  </figure>
+
+  <figure>
+    <img src="https://nsekhon1991.github.io/wickatoxy/images/Screenshot 2026-11-02 at 16.28.52.png"
+         loading="lazy">
+    <figcaption> Christopher and Solvej working in Prof. Tim Beach's lab at UT Austin. </figcaption>
+  </figure>
+
+  <figure>
+    <img src="https://nsekhon1991.github.io/wickatoxy/images/Screenshot 2026-11-02 at 16.28.52.png"
+         loading="lazy">
+    <figcaption> Christopher and Solvej working in Prof. Tim Beach's lab at UT Austin. </figcaption>
+  </figure>
+
+  <figure>
+    <img src="https://nsekhon1991.github.io/wickatoxy/images/Screenshot 2026-11-02 at 16.26.10.png"
+         loading="lazy">
+    <figcaption> Dr. Sekhon rapelling </figcaption>
+  </figure>
+
+  <figure>
+    <img src="https://nsekhon1991.github.io/wickatoxy/images/Screenshot 2026-11-02 at 16.27.19.png"
+         loading="lazy">
+    <figcaption> Sunset in Sabang </figcaption>
+  </figure>
+
+  <figure>
+    <img src="https://nsekhon1991.github.io/wickatoxy/images/Screenshot 2026-11-02 at 16.27.41.png"
+         loading="lazy">
+    <figcaption> Panomaric view in Nahanni National Park. </figcaption>
+  </figure>
+
+  <figure>
+    <img src="https://nsekhon1991.github.io/wickatoxy/images/Screenshot 2026-11-02 at 16.29.19.png"
+         loading="lazy">
+    <figcaption> Dr. Sekhon at Cape Town. </figcaption>
+  </figure>
+
 </div>
 
 

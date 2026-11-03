@@ -181,25 +181,25 @@ We invite you to browse through the images and explore the website. Please feel 
   <figure>
     <img src="https://nsekhon1991.github.io/wickatoxy/images/Screenshot 2026-11-02 at 16.28.23.png"
          loading="lazy">
-    <figcaption> Hiking down a scree and talus slope exposure. </figcaption>
+    <figcaption> Street using the CNC Desktop mill to drill speleothem samples at Oxy. </figcaption>
   </figure>
 
   <figure>
     <img src="https://nsekhon1991.github.io/wickatoxy/images/Screenshot 2026-11-02 at 16.28.34.png"
          loading="lazy">
-    <figcaption> Hiking down a scree and talus slope exposure. </figcaption>
+    <figcaption> Ginny using a hand-held drill to drill samples at Oxy.</figcaption>
   </figure>
 
   <figure>
     <img src="https://nsekhon1991.github.io/wickatoxy/images/Screenshot 2026-11-02 at 16.29.02.png"
          loading="lazy">
-    <figcaption> Hiking down a scree and talus slope exposure. </figcaption>
+    <figcaption> Solvej breaking down soil samples at UT Austin. </figcaption>
   </figure>
 
   <figure>
     <img src="https://nsekhon1991.github.io/wickatoxy/images/Screenshot 2026-11-02 at 16.29.10.png"
          loading="lazy">
-    <figcaption> Hiking down a scree and talus slope exposure. </figcaption>
+    <figcaption> Mira, Prf. Dan Ibarra, and graduate student Monica at Brown University. </figcaption>
   </figure>
 
 </div>
